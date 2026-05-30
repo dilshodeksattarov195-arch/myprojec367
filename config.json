@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "orderrecrypt",
+        "uuid": 2287878,
+        "checksum": "dzs0p8"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "production"
+    }
+}
